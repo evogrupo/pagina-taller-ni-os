@@ -1,0 +1,247 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * brandon-grotesque:
+ *   - http://typekit.com/eulas/0000000000000000000132dd
+ *   - http://typekit.com/eulas/0000000000000000000132de
+ *   - http://typekit.com/eulas/0000000000000000000132e1
+ *   - http://typekit.com/eulas/0000000000000000000132e2
+ * fira-sans:
+ *   - http://typekit.com/eulas/000000000000000000015891
+ *   - http://typekit.com/eulas/000000000000000000015892
+ *   - http://typekit.com/eulas/00000000000000000001588f
+ *   - http://typekit.com/eulas/000000000000000000015890
+ *   - http://typekit.com/eulas/000000000000000000015895
+ *   - http://typekit.com/eulas/000000000000000000015896
+ * proxima-nova:
+ *   - http://typekit.com/eulas/00000000000000003b9b306c
+ *   - http://typekit.com/eulas/00000000000000003b9b306d
+ *   - http://typekit.com/eulas/00000000000000003b9b3068
+ *   - http://typekit.com/eulas/00000000000000003b9b3069
+ *   - http://typekit.com/eulas/00000000000000003b9b306a
+ *   - http://typekit.com/eulas/00000000000000003b9b306b
+ *   - http://typekit.com/eulas/00000000000000003b9b305e
+ *   - http://typekit.com/eulas/00000000000000003b9b305f
+ *   - http://typekit.com/eulas/00000000000000003b9b3066
+ *   - http://typekit.com/eulas/00000000000000003b9b3067
+ *   - http://typekit.com/eulas/00000000000000003b9b3062
+ *   - http://typekit.com/eulas/00000000000000003b9b3063
+ *   - http://typekit.com/eulas/00000000000000003b9b3060
+ *   - http://typekit.com/eulas/00000000000000003b9b3061
+ *   - http://typekit.com/eulas/00000000000000003b9b3064
+ *   - http://typekit.com/eulas/00000000000000003b9b3065
+ * pt-serif:
+ *   - http://typekit.com/eulas/000000000000000000012500
+ *   - http://typekit.com/eulas/0000000000000000000124fe
+ *   - http://typekit.com/eulas/0000000000000000000124ff
+ *   - http://typekit.com/eulas/0000000000000000000124fd
+ * reklame-script:
+ *   - http://typekit.com/eulas/00000000000000003b9ad2f8
+ *   - http://typekit.com/eulas/00000000000000003b9ad2fa
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-10-17 06:30:43 UTC"}*/
+
+@import url("../p.typekit.net/pec4d.css?s=1&amp;k=lab8xti&amp;ht=tk&amp;f=137.138.139.140.169.170.171.172.173.174.175.176.5474.5475.25136.25137.9674.9675.9676.9677.10300.10301.10302.10303.10312.10314.22489.22490.22493.22494.22495.22496&amp;a=3787040&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/b683e3/00000000000000003b9b306c/27/lff69?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n9&amp;v=3") format("woff2"),url("af/b683e3/00000000000000003b9b306c/27/dff69?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n9&amp;v=3") format("woff"),url("af/b683e3/00000000000000003b9b306c/27/aff69?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n9&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/d32834/00000000000000003b9b306d/27/l263d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i9&amp;v=3") format("woff2"),url("af/d32834/00000000000000003b9b306d/27/d263d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i9&amp;v=3") format("woff"),url("af/d32834/00000000000000003b9b306d/27/a263d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i9&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:900;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/949f99/00000000000000003b9b3068/27/l04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff2"),url("af/949f99/00000000000000003b9b3068/27/d04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff"),url("af/949f99/00000000000000003b9b3068/27/a04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/4c4052/00000000000000003b9b3069/27/l3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("woff2"),url("af/4c4052/00000000000000003b9b3069/27/d3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("woff"),url("af/4c4052/00000000000000003b9b3069/27/a3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/d82519/00000000000000003b9b306a/27/la39f?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n8&amp;v=3") format("woff2"),url("af/d82519/00000000000000003b9b306a/27/da39f?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n8&amp;v=3") format("woff"),url("af/d82519/00000000000000003b9b306a/27/aa39f?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n8&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/3e6df8/00000000000000003b9b306b/27/l19d3?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i8&amp;v=3") format("woff2"),url("af/3e6df8/00000000000000003b9b306b/27/d19d3?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i8&amp;v=3") format("woff"),url("af/3e6df8/00000000000000003b9b306b/27/a19d3?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i8&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:800;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/c47696/00000000000000003b9b305e/27/l04b5?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n1&amp;v=3") format("woff2"),url("af/c47696/00000000000000003b9b305e/27/d04b5?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n1&amp;v=3") format("woff"),url("af/c47696/00000000000000003b9b305e/27/a04b5?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n1&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/c31dbb/00000000000000003b9b305f/27/l4ddc?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i1&amp;v=3") format("woff2"),url("af/c31dbb/00000000000000003b9b305f/27/d4ddc?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i1&amp;v=3") format("woff"),url("af/c31dbb/00000000000000003b9b305f/27/a4ddc?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i1&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:100;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/576d53/00000000000000003b9b3066/27/l9f0d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n6&amp;v=3") format("woff2"),url("af/576d53/00000000000000003b9b3066/27/d9f0d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n6&amp;v=3") format("woff"),url("af/576d53/00000000000000003b9b3066/27/a9f0d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/f7d492/00000000000000003b9b3067/27/l01ea?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i6&amp;v=3") format("woff2"),url("af/f7d492/00000000000000003b9b3067/27/d01ea?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i6&amp;v=3") format("woff"),url("af/f7d492/00000000000000003b9b3067/27/a01ea?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i6&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/705e94/00000000000000003b9b3062/27/l64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff2"),url("af/705e94/00000000000000003b9b3062/27/d64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff"),url("af/705e94/00000000000000003b9b3062/27/a64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/5c70f2/00000000000000003b9b3063/27/l34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("woff2"),url("af/5c70f2/00000000000000003b9b3063/27/d34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("woff"),url("af/5c70f2/00000000000000003b9b3063/27/a34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/cebe0e/00000000000000003b9b3060/27/l0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("woff2"),url("af/cebe0e/00000000000000003b9b3060/27/d0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("woff"),url("af/cebe0e/00000000000000003b9b3060/27/a0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/40ff7f/00000000000000003b9b3061/27/l00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("woff2"),url("af/40ff7f/00000000000000003b9b3061/27/d00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("woff"),url("af/40ff7f/00000000000000003b9b3061/27/a00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/6e816b/00000000000000003b9b3064/27/la2f9?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n5&amp;v=3") format("woff2"),url("af/6e816b/00000000000000003b9b3064/27/da2f9?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n5&amp;v=3") format("woff"),url("af/6e816b/00000000000000003b9b3064/27/aa2f9?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("af/5b5251/00000000000000003b9b3065/27/l0dca?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i5&amp;v=3") format("woff2"),url("af/5b5251/00000000000000003b9b3065/27/d0dca?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i5&amp;v=3") format("woff"),url("af/5b5251/00000000000000003b9b3065/27/a0dca?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i5&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;
+}
+
+@font-face {
+font-family:"pt-serif";
+src:url("af/740b38/000000000000000000012500/27/l64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff2"),url("af/740b38/000000000000000000012500/27/d64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff"),url("af/740b38/000000000000000000012500/27/a64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"pt-serif";
+src:url("af/e61d82/0000000000000000000124fe/27/l34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("woff2"),url("af/e61d82/0000000000000000000124fe/27/d34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("woff"),url("af/e61d82/0000000000000000000124fe/27/a34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"pt-serif";
+src:url("af/63cd12/0000000000000000000124ff/27/l04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff2"),url("af/63cd12/0000000000000000000124ff/27/d04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff"),url("af/63cd12/0000000000000000000124ff/27/a04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"pt-serif";
+src:url("af/e614cb/0000000000000000000124fd/27/l3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("woff2"),url("af/e614cb/0000000000000000000124fd/27/d3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("woff"),url("af/e614cb/0000000000000000000124fd/27/a3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"brandon-grotesque";
+src:url("af/2f8f3d/0000000000000000000132dd/27/l0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("woff2"),url("af/2f8f3d/0000000000000000000132dd/27/d0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("woff"),url("af/2f8f3d/0000000000000000000132dd/27/a0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"brandon-grotesque";
+src:url("af/9f8c97/0000000000000000000132de/27/l00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("woff2"),url("af/9f8c97/0000000000000000000132de/27/d00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("woff"),url("af/9f8c97/0000000000000000000132de/27/a00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;
+}
+
+@font-face {
+font-family:"brandon-grotesque";
+src:url("af/d8f71f/0000000000000000000132e1/27/la2f9?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n5&amp;v=3") format("woff2"),url("af/d8f71f/0000000000000000000132e1/27/da2f9?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n5&amp;v=3") format("woff"),url("af/d8f71f/0000000000000000000132e1/27/aa2f9?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;
+}
+
+@font-face {
+font-family:"brandon-grotesque";
+src:url("af/ba2c35/0000000000000000000132e2/27/l0dca?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i5&amp;v=3") format("woff2"),url("af/ba2c35/0000000000000000000132e2/27/d0dca?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i5&amp;v=3") format("woff"),url("af/ba2c35/0000000000000000000132e2/27/a0dca?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i5&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;
+}
+
+@font-face {
+font-family:"reklame-script";
+src:url("af/96f268/00000000000000003b9ad2f8/27/l64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff2"),url("af/96f268/00000000000000003b9ad2f8/27/d64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff"),url("af/96f268/00000000000000003b9ad2f8/27/a64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"reklame-script";
+src:url("af/c3d1ed/00000000000000003b9ad2fa/27/l04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff2"),url("af/c3d1ed/00000000000000003b9ad2fa/27/d04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff"),url("af/c3d1ed/00000000000000003b9ad2fa/27/a04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"fira-sans";
+src:url("af/c5635c/000000000000000000015891/27/l64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff2"),url("af/c5635c/000000000000000000015891/27/d64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("woff"),url("af/c5635c/000000000000000000015891/27/a64f0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"fira-sans";
+src:url("af/8254f0/000000000000000000015892/27/l34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("woff2"),url("af/8254f0/000000000000000000015892/27/d34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("woff"),url("af/8254f0/000000000000000000015892/27/a34b8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i4&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"fira-sans";
+src:url("af/dabff9/00000000000000000001588f/27/l0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("woff2"),url("af/dabff9/00000000000000000001588f/27/d0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("woff"),url("af/dabff9/00000000000000000001588f/27/a0ac7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"fira-sans";
+src:url("af/600d5d/000000000000000000015890/27/l00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("woff2"),url("af/600d5d/000000000000000000015890/27/d00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("woff"),url("af/600d5d/000000000000000000015890/27/a00c0?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i3&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;
+}
+
+@font-face {
+font-family:"fira-sans";
+src:url("af/db612c/000000000000000000015895/27/l04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff2"),url("af/db612c/000000000000000000015895/27/d04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("woff"),url("af/db612c/000000000000000000015895/27/a04c7?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"fira-sans";
+src:url("af/3297b1/000000000000000000015896/27/l3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("woff2"),url("af/3297b1/000000000000000000015896/27/d3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("woff"),url("af/3297b1/000000000000000000015896/27/a3fe8?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&amp;fvd=i7&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+.tk-proxima-nova { font-family: "proxima-nova",sans-serif; }
+.tk-pt-serif { font-family: "pt-serif",sans-serif; }
+.tk-brandon-grotesque { font-family: "brandon-grotesque",sans-serif; }
+.tk-reklame-script { font-family: "reklame-script",sans-serif; }
+.tk-fira-sans { font-family: "fira-sans",sans-serif; }

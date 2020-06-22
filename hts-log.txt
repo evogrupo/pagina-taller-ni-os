@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Jun 2020 19:00:21 at https://grupo-evolucion.webnode.es/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://grupo-evolucion.webnode.es/ -O1 "C:\Users\51982\Documents\Camtasia Studio\afarensis\evo2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:01:06	Error: 	"Not Found" (404) at link https://grupo-evolucion.webnode.es/wnd_header.set/ (from https://grupo-evolucion.webnode.es/)
+19:01:06	Warning: 	Moved Permanently for https://grupo-evolucion.webnode.es/home/
+19:01:06	Warning: 	File has moved from https://grupo-evolucion.webnode.es/home/ to https://grupo-evolucion.webnode.es
+19:01:13	Error: 	"Not Found" (404) at link https://grupo-evolucion.webnode.es/metodos-de-ensenanza/wnd_header.set/ (from https://grupo-evolucion.webnode.es/metodos-de-ensenanza/)
+19:01:13	Error: 	"Not Found" (404) at link https://grupo-evolucion.webnode.es/instrumentos/wnd_header.set/ (from https://grupo-evolucion.webnode.es/instrumentos/)
+19:01:13	Error: 	"Not Found" (404) at link https://grupo-evolucion.webnode.es/contacto/wnd_header.set/ (from https://grupo-evolucion.webnode.es/contacto/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 143 links scanned, 136 files written (11562772 bytes overall) [9040623 bytes received at 173858 bytes/sec], 5526633 bytes transferred using HTTP compression in 49 files, ratio 51%, 3.1 requests per connection
+(4 errors, 2 warnings, 0 messages)

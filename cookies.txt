@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+grupo-evolucion.webnode.es	TRUE	/	FALSE	1999999999	PHPSESSID	762d5d1407059b5c33a6d6da71065fa1
+
